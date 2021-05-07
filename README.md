@@ -30,7 +30,7 @@
 
 - 📚 I'm reading : The Bed of Procrustes By Nassim Taleb, ديوان الإمام علي بن أبي طالب (Ali bin Abi Talib Poetry), Probability and Statistics by Michael J.Evans & Jefrey S. Rosenthal
 - 🌿 I do some planting and I just created an instagram account. [Check it out](https://www.instagram.com/abdulrahmangarden/)
-- 🎻 I'm listening now for : [Talal Maddah](https://www.youtube.com/watch?v=tO3e0jIfwls&ab_channel=MrJasser1983), [Josh Ritter](https://www.youtube.com/watch?v=NIHMAhIe9es&ab_channel=JoshRitter), [LEON](https://www.youtube.com/watch?v=GMePup2Z0zc&ab_channel=L%C3%89ON),
+- 🎻 I'm listening right now to : [Talal Maddah](https://www.youtube.com/watch?v=tO3e0jIfwls&ab_channel=MrJasser1983), [Josh Ritter](https://www.youtube.com/watch?v=NIHMAhIe9es&ab_channel=JoshRitter), [LEON](https://www.youtube.com/watch?v=GMePup2Z0zc&ab_channel=L%C3%89ON),
 
 #### --------
 
