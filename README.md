@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alotaibidev" target="blank"><img src="https://img.shields.io/twitter/follow/alotaibidev?logo=twitter&style=for-the-badge" alt="alotaibidev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdulrahmanalotaibi.me/projects](https://abdulrahmanalotaibi.me/projects)
+- 👨‍💻 All of my projects are available at 🚀 [https://abdulrahmanalotaibi.me/projects](https://abdulrahmanalotaibi.me/projects)
 
 - 📝 I regularly write articles on [https://abdulrahmanalotaibi.me/blog](https://abdulrahmanalotaibi.me/blog)
 
