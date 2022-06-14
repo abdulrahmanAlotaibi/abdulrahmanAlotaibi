@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **a.alotaibi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EW26QGoMjCMcYMSXiJfAhFFH42VXbnX_/view](https://drive.google.com/file/d/1EW26QGoMjCMcYMSXiJfAhFFH42VXbnX_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
