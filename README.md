@@ -9,9 +9,3 @@
 - 📫 How to reach me **a.alotaibi.dev@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alotaibidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alotaibidev" height="30" width="40" /></a>
-<a href="https://twitter.com/alotaibidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alotaibidev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrahman-alotaibi-1b31a7212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-alotaibi-1b31a7212" height="30" width="40" /></a>
-
