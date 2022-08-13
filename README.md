@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Alotaibi</h1>
 <h3 align="center">Specialized in building backend distributed systems. I design and build microservices, restful APIs, infrastructure as code, and building UIs with skills in user experience design. Anything related to shipping useful and reliable digital product is something I’m interested in.</h3>
 
-<p align="left"> <a href="https://twitter.com/alotaibidev" target="blank"><img src="https://img.shields.io/twitter/follow/alotaibidev?logo=twitter&style=for-the-badge" alt="alotaibidev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at 🚀 [https://abdulrahmanalotaibi.me/projects](https://abdulrahmanalotaibi.me/projects)
 
